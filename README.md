@@ -1,0 +1,1 @@
+# kmm-google-sign-in-android-privacy-policy
